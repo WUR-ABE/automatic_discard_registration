@@ -1,0 +1,23 @@
+[tool.black]
+line-length = 120
+target-version = ['py38']
+include = '\.pyi?$'
+exclude = '''
+/(
+    .git
+  | venv
+  | detection/yolov3
+  | detection/apex
+  | data
+)/
+'''
+
+[tool.isort]
+profile = 'black'
+skip_gitignore = true
+line_length = 120
+src_paths = ['synthetic_image_generator', 'evaluation', 'detection', 'common', 'tracking']
+virtual_env='venv'
+
+known_third_party=['apex', 'yolov3']
+extend_skip=['detection/yolov3', 'detection/apex', 'data']

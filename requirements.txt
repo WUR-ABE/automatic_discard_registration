@@ -1,0 +1,10 @@
+numpy
+opencv-python
+scipy
+scikit-learn
+lxml
+filterpy
+
+tqdm
+tabulate
+matplotlib

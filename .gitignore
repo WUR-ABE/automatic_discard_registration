@@ -1,0 +1,12 @@
+/venv
+/data/*
+# /.ipynb_checkpoints
+/.mypy_cache
+/__pycache__
+/synthetic_image_generator/.images
+
+*.pyc
+*batch*.jpg
+*output*.png
+
+!data/.gitkeep 
