@@ -1,0 +1,6 @@
+[submodule "detection/yolov3"]
+	path = detection/yolov3
+	url = https://github.com/ultralytics/yolov3
+[submodule "detection/apex"]
+	path = detection/apex
+	url = https://github.com/NVIDIA/apex
