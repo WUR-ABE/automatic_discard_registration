@@ -24,11 +24,10 @@ git clone https://github.com/Rick-v-E/automatic_discard_registration.git
 ```
 
 ### Requirements
-Python 3.8 is needed with all [requirements.txt](requirements.txt) dependencies as well as the YOLOv3 [requirements.txt](detection/yolov3/requirements.txt) installed. Optionally, apex can be installed for faster training:
+Python 3.8 is needed with all dependencies listed in [requirements.txt](requirements.txt). Optionally, apex can be installed for faster training:
 
 ```commandline
-pip install -r requirements.txt
-pip install -r detection/yolov3/requirements.txt
+pip install --recurse-submodules -r requirements.txt
 pip install detection/apex
 ```
 
