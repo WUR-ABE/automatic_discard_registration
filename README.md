@@ -3,15 +3,14 @@
 This repository contains the code beloning to the paper "Automatic discard registration in cluttered environments using deep learning and object tracking: class imbalance, occlusion, and a comparison to human review". If you find this code usefull, please consider citing our paper:
 
 ```text
-@article{<<DOI>>,
-    author = {van Essen, Rick and Mencarelli, Angelo and van Helmond, Aloysius and Nguyen, Linh and Batsleer, Jurgen and Poos, Jan-Jaap and Kootstra, Gert},
+@article{10.1093/icesjms/fsab233,
+    author = {van Essen, Rick and Mencarelli, Angelo and van Helmond, Aloysius and Nguyen, Linh and Batsleer, Jurgen and Poos, Jan-Jaap and Kootstra, Gert},
     title = "{Automatic discard registration in cluttered environments using deep learning and object tracking: class imbalance, occlusion, and a comparison to human review}",
     journal = {ICES Journal of Marine Science},
     year = {2021},
-    month = {<<MONTH>>},
-    issn = {<<ISSN>>},
-    doi = {<<DOI>>},
-    url = {https://doi.org/<<DOI>>}
+    month = {11},
+    issn = {1054-3139},
+    doi = {10.1093/icesjms/fsab233}
 }
 ```
 
