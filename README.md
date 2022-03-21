@@ -23,14 +23,14 @@ The dataset belonging to this repository can be found at https://doi.org/10.4121
 Clone the repository from GIT:
 
 ```commandline
-git clone https://github.com/Rick-v-E/automatic_discard_registration.git
+git clone https://github.com/Rick-v-E/automatic_discard_registration.git --recurse-submodules
 ```
 
 ### Requirements
 Python 3.8 is needed with all dependencies listed in [requirements.txt](requirements.txt). Optionally, apex can be installed for faster training:
 
 ```commandline
-pip install --recurse-submodules -r requirements.txt
+pip install -r requirements.txt
 pip install detection/apex
 ```
 
