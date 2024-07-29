@@ -1,16 +1,33 @@
 cff-version: 1.2.0
+authors:
+  - family-names: van Essen
+    given-names: Rick
+  - family-names: Mencarelli
+    given-names: Angelo
+  - family-names: van Helmond
+    given-names: Aloysius
+  - family-names: Nguyen
+    given-names: Linh
+  - family-names: Batsleer
+    given-names: Jurgen
+  - family-names: Poos
+    given-names: Jan-Jaap
+  - family-names: Kootstra
+    given-names: Gert
+repository-code: "https://github.com/Rick-v-E/automatic_discard_registration"
+title: "Automatic discard registration in cluttered environments using deep learning and object tracking: class imbalance, occlusion, and a comparison to human review"
+message: "If you use this software, please cite it as below."
 preferred-citation:
   title: "Automatic discard registration in cluttered environments using deep learning and object tracking: class imbalance, occlusion, and a comparison to human review"
   doi: "10.1093/icesjms/fsab2331"
-  year: "2021"
+  year: 2021
   type: article
   journal: "ICES Journal of Marine Science"
   volume: 78
   issue: 10
   start: 3834
   end: 3846
-  url: https://academic.oup.com/icesjms/article/78/10/3834/6444891
-  codeurl: https://github.com/Rick-v-E/automatic_discard_registration
+  url: "https://academic.oup.com/icesjms/article/78/10/3834/6444891"
   authors:
     - family-names: van Essen
       given-names: Rick
