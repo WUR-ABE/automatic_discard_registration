@@ -32,9 +32,9 @@ The software contains 5 notebooks:
 If you find this code usefull, please consider citing our paper:
 
 ```text
-@article{10.1093/icesjms/fsab233,
+@article{vanEssen2021,
     author = {van Essen, Rick and Mencarelli, Angelo and van Helmond, Aloysius and Nguyen, Linh and Batsleer, Jurgen and Poos, Jan-Jaap and Kootstra, Gert},
-    title = "{Automatic discard registration in cluttered environments using deep learning and object tracking: class imbalance, occlusion, and a comparison to human review}",
+    title = {Automatic discard registration in cluttered environments using deep learning and object tracking: class imbalance, occlusion, and a comparison to human review},
     journal = {ICES Journal of Marine Science},
     volume = {78},
     number = {10},
@@ -47,3 +47,8 @@ If you find this code usefull, please consider citing our paper:
 ```
 
 The dataset belonging to this repository can be found at https://doi.org/10.4121/16622566.v1. A small [sample dataset](https://drive.google.com/file/d/1TcyeeX0UjhWldbjhLkCRJIuktDNeAMJJ/view?usp=sharing) is available for quickly testing this repository.
+
+## Funding
+The study was carried out under the Fully Documented Fisheries project initiated by the Dutch Ministry of Agriculture, Nature and Food Quality and funded by the European Maritime and Fisheries Fund.
+
+<img src="https://github.com/user-attachments/assets/45e9ea07-def7-407a-9e86-6a30f0d315df" alt="wageningen university logo" height="50">
